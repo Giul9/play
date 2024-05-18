@@ -4,7 +4,7 @@ let musicas = [
     {titulo:'I Want You', artista:'Mitski', src:'musicas/Mitski.mp3', img:'imagens/pn4.jpg'},
     {titulo:'Eyes Without A Face', artista:'Billy Idol', src:'musicas/Billy idol.mp3', img:'imagens/n1.jpeg'},
     {titulo:'Cheri Cheri Lady', artista:'Modern Talking', src:'musicas/Modern Talking.mp3', img:'imagens/n2.jpeg'},
-    {titulo:'Look At Us Now', artista:'Daisy Jones & The Six', src:'musicas/Daisy Jones.mp3', img:'imagens/n3.jpeg'},
+    {titulo:'Look At Us Now', artista:'Daisy Jones & The Six', src:'musicas/Daisy Jones.mp3', img:'imagens/n3.jpeg'}
     
 
     
